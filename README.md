@@ -48,9 +48,10 @@ return 0;
 }
 
 ```
-## OUTPUT:
+# OUTPUT
+<img width="373" height="263" alt="image" src="https://github.com/user-attachments/assets/610fb987-9f7d-4faf-9dea-74275a52ee77" />
 
-![image](https://github.com/user-attachments/assets/e653e18c-71e4-487b-afef-1fe722cb9228)
+<img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/8f10c7ef-4de1-4624-8698-fb080cfa1b62" />
 
-## RESULT:
+# Result
 The back end of the compiler is implemented successfully, and the output is verified.
